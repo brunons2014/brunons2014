@@ -1,7 +1,7 @@
 ### Oi! Eu sou o Bruno. 😁👍
 
-- 🔭 Desenvolvedor front-end
-- 🌱 Atualmente estudando Typescript
+- 🔭 Desenvolvedor full-stack
+- 🌱 Atualmente estudando Java e javascript
 - 📫 meu email de contato é brunons2015@outlook.com
 
 
