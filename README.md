@@ -1,6 +1,6 @@
 ### Oi! Eu sou o Bruno. 😁👍
 
-- 🔭 Desenvolvedor full-stack
+- 🔭 Desenvolvedor backend e mobile
 - 🌱 Atualmente estudando Java e Kotlin
 - 📫 meu email de contato é brunons2015@outlook.com
 
